@@ -1,7 +1,7 @@
 {
   "version": "9.2.0",
   "url": "https://github.com/adflex917/xtreaming-desktop-updates/releases/tag/v9.2.0",
-  "exe_url": "https://github.com/adflex917/xtreaming-desktop-updates/releases/download/v9.2.0/xtreaming.exe",
+  "exe_url": "https://github.com/adflex917/xtreaming-desktop-updates/releases/download/v9.2.0/xtreaming-setup-9.2.0.exe",
   "whats_new": [
     "theme default follows system appearance (auto dark/light)",
     "navbar: Buy Me a Coffee moved next to Rooms icon",
