@@ -1,14 +1,13 @@
 {
-  "version": "9.1.9",
-  "url": "https://github.com/adflex917/xtreaming-desktop-updates/releases/tag/v9.1.9",
-  "exe_url": "https://github.com/adflex917/xtreaming-desktop-updates/releases/download/v9.1.9/xtreaming.exe",
+  "version": "9.2.0",
+  "url": "https://github.com/adflex917/xtreaming-desktop-updates/releases/tag/v9.2.0",
+  "exe_url": "https://github.com/adflex917/xtreaming-desktop-updates/releases/download/v9.2.0/xtreaming.exe",
   "whats_new": [
-    "download via vidvault direct streaming (no Python CLI)",
-    "quality selector 480p/720p/1080p in download modal",
-    "embed player auto-play on Watch Now",
-    "default embed source: CineSrc",
-    "leave rooms button clears player",
-    "coming soon/unreleased badges on hero carousel",
-    "donate renamed to Buy Me a Coffee"
+    "theme default follows system appearance (auto dark/light)",
+    "navbar: Buy Me a Coffee moved next to Rooms icon",
+    "navbar: share via WhatsApp with pre-filled message",
+    "Help renamed to About & Legal with new icon",
+    "removed cookie policy, simplified Terms & Privacy",
+    "hero carousel: lock icons for coming soon/unreleased"
   ]
 }
