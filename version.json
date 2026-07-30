@@ -3,7 +3,7 @@
   "url": "https://github.com/adflex917/xtreaming-desktop-updates/releases",
   "exe_url": "https://github.com/adflex917/xtreaming-desktop-updates/releases/download/v9.1.8/xtreaming.exe",
   "whats_new": [
-    "Fix filter genres not working",
-    "Fix people detail screen error"
+    "added movie genre tabs",
+    "added tv genre tabs"
   ]
 }
