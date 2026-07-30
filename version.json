@@ -1,9 +1,14 @@
 {
-  "version": "9.1.8",
-  "url": "https://github.com/adflex917/xtreaming-desktop-updates/releases/tag/v9.1.8",
-  "exe_url": "https://github.com/adflex917/xtreaming-desktop-updates/releases/download/v9.1.8/xtreaming.exe",
+  "version": "9.1.9",
+  "url": "https://github.com/adflex917/xtreaming-desktop-updates/releases/tag/v9.1.9",
+  "exe_url": "https://github.com/adflex917/xtreaming-desktop-updates/releases/download/v9.1.9/xtreaming.exe",
   "whats_new": [
-    "added movie genre tabs",
-    "added tv genre tabs"
+    "download via vidvault direct streaming (no Python CLI)",
+    "quality selector 480p/720p/1080p in download modal",
+    "embed player auto-play on Watch Now",
+    "default embed source: CineSrc",
+    "leave rooms button clears player",
+    "coming soon/unreleased badges on hero carousel",
+    "donate renamed to Buy Me a Coffee"
   ]
 }
