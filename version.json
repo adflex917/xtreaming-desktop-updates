@@ -1,12 +1,12 @@
 {
-  "version": "9.2.1",
-  "url": "https://github.com/adflex917/xtreaming-desktop-updates/releases/tag/v9.2.1",
-  "exe_url": "https://github.com/adflex917/xtreaming-desktop-updates/releases/download/v9.2.1/Xtreaming.Setup.9.2.1.exe",
+  "version": "9.2.2",
+  "url": "https://github.com/adflex917/xtreaming-desktop-updates/releases/tag/v9.2.2",
+  "exe_url": "https://github.com/adflex917/xtreaming-desktop-updates/releases/download/v9.2.2/Xtreaming.Setup.9.2.2.exe",
   "whats_new": [
-    "remember email & username after logout for faster re-login",
-    "fixed data loss on update (productName consistency)",
-    "installer filename: Xtreaming.Setup.X.X.X.exe format",
-    "theme default follows system appearance (auto dark/light)",
+    "auth refactored to React Context (consistent across components)",
+    "lock screen: forgot password with confirmation dialog",
+    "lock screen disabled when not logged in",
+    "remember email & username after logout for faster login",
     "navbar: share via WhatsApp, About & Legal, Rooms + Coffee",
     "removed cookie policy, simplified Terms & Privacy"
   ]
