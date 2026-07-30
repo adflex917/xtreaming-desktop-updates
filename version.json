@@ -1,13 +1,11 @@
 {
-  "version": "9.2.2",
-  "url": "https://github.com/adflex917/xtreaming-desktop-updates/releases/tag/v9.2.2",
-  "exe_url": "https://github.com/adflex917/xtreaming-desktop-updates/releases/download/v9.2.2/Xtreaming.Setup.9.2.2.exe",
+  "version": "9.2.3",
+  "url": "https://github.com/adflex917/xtreaming-desktop-updates/releases/tag/v9.2.3",
+  "exe_url": "https://github.com/adflex917/xtreaming-desktop-updates/releases/download/v9.2.3/Xtreaming.Setup.9.2.3.exe",
   "whats_new": [
-    "auth refactored to React Context (consistent across components)",
-    "lock screen: forgot password with confirmation dialog",
-    "lock screen disabled when not logged in",
-    "remember email & username after logout for faster login",
-    "navbar: share via WhatsApp, About & Legal, Rooms + Coffee",
-    "removed cookie policy, simplified Terms & Privacy"
+    "fixed trailer button disabled on all media (TMDB language filter)",
+    "all TMDB content now in English for consistent metadata & trailers",
+    "lock screen simplified: transparent overlay + unlock button",
+    "tmdbFetch supports language override option"
   ]
 }
