@@ -1,13 +1,13 @@
 {
-  "version": "9.2.0",
-  "url": "https://github.com/adflex917/xtreaming-desktop-updates/releases/tag/v9.2.0",
-  "exe_url": "https://github.com/adflex917/xtreaming-desktop-updates/releases/download/v9.2.0/Xtreaming.Setup.9.2.0.exe",
+  "version": "9.2.1",
+  "url": "https://github.com/adflex917/xtreaming-desktop-updates/releases/tag/v9.2.1",
+  "exe_url": "https://github.com/adflex917/xtreaming-desktop-updates/releases/download/v9.2.1/Xtreaming.Setup.9.2.1.exe",
   "whats_new": [
+    "remember email & username after logout for faster re-login",
+    "fixed data loss on update (productName consistency)",
+    "installer filename: Xtreaming.Setup.X.X.X.exe format",
     "theme default follows system appearance (auto dark/light)",
-    "navbar: Buy Me a Coffee moved next to Rooms icon",
-    "navbar: share via WhatsApp with pre-filled message",
-    "Help renamed to About & Legal with new icon",
-    "removed cookie policy, simplified Terms & Privacy",
-    "hero carousel: lock icons for coming soon/unreleased"
+    "navbar: share via WhatsApp, About & Legal, Rooms + Coffee",
+    "removed cookie policy, simplified Terms & Privacy"
   ]
 }
