@@ -1,12 +1,12 @@
 {
-  "version": "9.2.5",
-  "url": "https://github.com/adflex917/xtreaming-desktop-updates/releases/tag/v9.2.5",
-  "exe_url": "https://github.com/adflex917/xtreaming-desktop-updates/releases/download/v9.2.5/Xtreaming.Setup.9.2.5.exe",
+  "version": "9.2.6",
+  "url": "https://github.com/adflex917/xtreaming-desktop-updates/releases/tag/v9.2.6",
+  "exe_url": "https://github.com/adflex917/xtreaming-desktop-updates/releases/download/v9.2.6/Xtreaming.Setup.9.2.6.exe",
   "whats_new": [
+    "reinstall recovery: existing email auto-links to new license",
     "removed password field from registration (username + email only)",
     "auto-login via license (no password login fallback)",
     "lockscreen unlock button now translated (id/en)",
-    "fixed seasons row not wrapping beyond 9 items",
-    "updated documentation files"
+    "fixed seasons row not wrapping beyond 9 items"
   ]
 }
